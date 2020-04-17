@@ -1,0 +1,2 @@
+"shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+        "label": "Git bash
