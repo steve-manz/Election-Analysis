@@ -43,11 +43,39 @@
 ---
 ## ## Challenge Summary - Using PyPoll_Challenge.py
 ---
-### - County Votes Results
+### - County Votes Summary
+---
+#### 1. Create a list for the counties.
+---
+#### 2. Create a dictionary where the county is the key and the votes cast for each county in the election are the values.
+---
+#### 3. Create an empty string that will hold the county name that had the largest turnout.
+---
+#### 4. Declare a variable that represents the number of votes that a county received. Hint: Inside a for loop, add an if statement to check if the county name has already been recorded. If not, add it to the list of county names.
+---
+#### 5. Inside the with open() function where you are outputting the file, do the following:
+---
+#### 6. Create three if statements to print out the voter turnout results similar to the results shown above.
+---
+#### 7. Add the results to the output file.
+---
+#### 8. Print the results to the command line.
 ---
 ---
 ## ## Challenge Summary
 ---
+### The county voting was as following:
+---
+#### Jefferson - 38,855 votes (10.5%)
+---
+#### Denver - 306,055 votes (82.8%)
+---
+#### Arapahoe - 24,801 votes (6.7%)
+---
+---
+### Largest County Turnout: Denver
+--
+
 
 
 
