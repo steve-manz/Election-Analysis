@@ -43,7 +43,7 @@
 ---
 ## ## Challenge Summary - Using PyPoll_Challenge.py
 ---
-### - County Votes Summary
+### County Votes Summary
 ---
 #### 1. Create a list for the counties.
 ---
@@ -74,7 +74,7 @@
 ---
 ---
 ### Largest County Turnout: Denver
---
+---
 
 
 
