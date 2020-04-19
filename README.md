@@ -16,7 +16,7 @@
 ## 5 Determine the winner of the election based on popular vote
 ---
 ---
-## Resources
+## ## Resources
 ---
 ### Data Source: election_results.csv
 ---
