@@ -27,7 +27,7 @@
 ---
 ## The analysis of the election show that:
 ---
-### - There were 369,711 votes cqsted
+### - There were 369,711 votes casted
 ---
 ### The candidates names, percentage of votes and total votes casted were:
 ---
