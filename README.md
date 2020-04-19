@@ -1,7 +1,6 @@
 # Election-Analysis Module 3
 ---
-## Main Repository
-
+---
 # PyPollpy - Election Results and Candidate Winners
 
 ## ## Project Overview
@@ -23,7 +22,7 @@
 ### Software: Python 3.7.2
 ---
 ---
-## ##Summary
+## ## Summary
 ---
 ## The analysis of the election show that:
 ---
@@ -41,7 +40,7 @@
 ### The winer was Diana DeGette
 ---
 ---
-## ## Challenge Summary - Using PyPoll_Challenge.py
+# Challenge Summary - Using PyPoll_Challenge.py
 ---
 ### County Votes Summary
 ---
